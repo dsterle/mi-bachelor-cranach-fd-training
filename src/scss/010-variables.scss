@@ -37,21 +37,21 @@ $xxl: $bfs * 5.5;
   font-family: 'Roboto-light';
   font-style: normal;
   font-weight: 100;
-  src: local('Roboto-light'), url(/assets/fonts/Roboto/Roboto-Light.ttf);
+  src: local('Roboto-light'), url(/test/assets/fonts/Roboto/Roboto-Light.ttf);
 }
 
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  src: local('Roboto'), url(/assets/fonts/Roboto/Robfsoto-Regular.ttf);
+  src: local('Roboto'), url(/test/assets/fonts/Roboto/Roboto-Regular.ttf);
 }
 
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
-  src: local('Roboto'), url(/assets/fonts/Roboto/Roboto-Bold.ttf);
+  src: local('Roboto'), url(/test/assets/fonts/Roboto/Roboto-Bold.ttf);
 }
 
 $font-sans-serif: "Roboto-light";
